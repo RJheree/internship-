@@ -1,0 +1,6 @@
+Hello my name is Data Science and my email address is xyz@domain.com 
+and alternate email address is xyz.abc@sdomain.domain.com.
+Please contact us at hr@fliprobo.com for further information.
+Expected Output:
+['xyz@domain.com', 'xyz.abc@sdomain.domain.com']
+['hr@fliprobo.com']
